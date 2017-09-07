@@ -1,3 +1,5 @@
+from Tools.scripts.treesync import raw_input
+
 print("hello,python")
 
 if False:
@@ -11,6 +13,9 @@ else:
 # print(aba)
 
 import  sys;x='runoob';sys.stdout.write(x+'\n')
+
+
+raw_input("\n\nPress the enter key to exit.")
 
 
 
